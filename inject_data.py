@@ -32,7 +32,8 @@ for row in job_state:
     job_hotspots[state] = job_hotspots.get(state, 0) + count
 
 # ─── Build JS data block to inject ───────────────────────────────────────────
-timestamp = datetime.now(IST).strftime("%d %b %Y, %H:%M IST")
+timestamp  = datetime.now(IST).strftime("%d %b %Y, %H:%M IST")
+badge_date = datetime.now(IST).strftime("%d %b %Y")
 
 js_block = f"""
 // ── AUTO-INJECTED BY inject_data.py — DO NOT EDIT MANUALLY ──
@@ -48,41 +49,39 @@ const LAST_UPDATED = "{timestamp}";
 with open("index.html") as f:
     html = f.read()
 
-# Replace the data block between markers (or append before </script> close)
+# Replace the JS data block between markers
 marker_start = "// ── AUTO-INJECTED BY inject_data.py — DO NOT EDIT MANUALLY ──"
 marker_end   = "// ── END INJECTED DATA ──"
 
 if marker_start in html:
-    # Replace existing block
     pattern = re.escape(marker_start) + r".*?" + re.escape(marker_end)
     html = re.sub(pattern, js_block.strip(), html, flags=re.DOTALL)
     print("✅ Replaced existing data block in index.html")
 else:
-    # First time — insert after the opening <script> tag that contains the data
-    # Find the line with "const STATE_COORDS_PROJ" and insert before it
     insert_before = "const STATE_COORDS_PROJ"
     if insert_before in html:
         html = html.replace(insert_before, js_block + "\n" + insert_before, 1)
         print("✅ Injected data block into index.html (first time)")
     else:
-        # Fallback: append just before </script>
         html = html.replace("</script>", js_block + "\n</script>", 1)
         print("✅ Injected data block into index.html (fallback)")
 
-# Update the live badge text
-html = html.replace(
-    'Adzuna + PLFS 2021',
-    f'Live · Updated {datetime.now(IST).strftime("%d %b %Y")}'
+# ─── Update badge — works every run using regex ───────────────────────────────
+# Matches original text AND any previously injected date like "Live · Updated 04 May 2026"
+html = re.sub(
+    r'(Adzuna \+ PLFS 2021|Live · Updated \d{2} \w{3} \d{4})',
+    f'Live · Updated {badge_date}',
+    html
 )
+print(f"✅ Badge updated to: Live · Updated {badge_date}")
 
-# Update header stats with real numbers
-total_jobs = summary.get("total_job_openings", 0)
+# ─── Write files ──────────────────────────────────────────────────────────────
+total_jobs   = summary.get("total_job_openings", 0)
 total_routes = summary.get("total_migration_routes", 0)
 
 with open("index.html", "w") as f:
     f.write(html)
 
-# ─── Write timestamp file ─────────────────────────────────────────────────────
 with open("last_updated.txt", "w") as f:
     f.write(timestamp)
 
