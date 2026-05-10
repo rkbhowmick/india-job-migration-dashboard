@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T21:08:59.293329",
+  "generated_at": "2026-05-10T21:11:45.848549",
   "summary": {
     "total_job_openings": 4750,
     "total_migration_routes": 40,
@@ -372,255 +372,240 @@
     {
       "state": "Telangana",
       "category": "IT Jobs",
-      "count": 138
-    },
-    {
-      "state": "Jharkhand",
-      "category": "IT Jobs",
-      "count": 108
+      "count": 152
     },
     {
       "state": "Karnataka",
+      "category": "IT Jobs",
+      "count": 123
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "IT Jobs",
+      "count": 113
+    },
+    {
+      "state": "Jharkhand",
       "category": "IT Jobs",
       "count": 107
     },
     {
-      "state": "Tamil Nadu",
+      "state": "Kerala",
       "category": "IT Jobs",
-      "count": 104
-    },
-    {
-      "state": "Bihar",
-      "category": "Sales Jobs",
-      "count": 92
+      "count": 105
     },
     {
       "state": "West Bengal",
       "category": "IT Jobs",
-      "count": 88
+      "count": 99
     },
     {
       "state": "Uttar Pradesh",
+      "category": "IT Jobs",
+      "count": 94
+    },
+    {
+      "state": "Haryana",
       "category": "IT Jobs",
       "count": 87
     },
     {
-      "state": "Haryana",
+      "state": "Madhya Pradesh",
       "category": "IT Jobs",
-      "count": 86
+      "count": 84
+    },
+    {
+      "state": "Bihar",
+      "category": "Sales Jobs",
+      "count": 82
     },
     {
       "state": "Odisha",
       "category": "IT Jobs",
-      "count": 83
-    },
-    {
-      "state": "Kerala",
-      "category": "IT Jobs",
-      "count": 81
+      "count": 79
     },
     {
       "state": "Odisha",
       "category": "Sales Jobs",
-      "count": 79
-    },
-    {
-      "state": "Madhya Pradesh",
-      "category": "IT Jobs",
-      "count": 76
-    },
-    {
-      "state": "Punjab",
-      "category": "IT Jobs",
-      "count": 76
+      "count": 75
     },
     {
       "state": "Assam",
       "category": "Sales Jobs",
-      "count": 70
+      "count": 74
+    },
+    {
+      "state": "Punjab",
+      "category": "IT Jobs",
+      "count": 66
     },
     {
       "state": "Maharashtra",
       "category": "IT Jobs",
-      "count": 69
-    },
-    {
-      "state": "Rajasthan",
-      "category": "IT Jobs",
-      "count": 68
+      "count": 65
     },
     {
       "state": "Punjab",
       "category": "Sales Jobs",
-      "count": 62
+      "count": 64
     },
     {
       "state": "Andhra Pradesh",
-      "category": "IT Jobs",
-      "count": 60
+      "category": "Sales Jobs",
+      "count": 64
     },
     {
       "state": "Uttarakhand",
       "category": "Hospitality & Catering Jobs",
-      "count": 56
-    },
-    {
-      "state": "Andhra Pradesh",
-      "category": "Sales Jobs",
-      "count": 55
+      "count": 62
     },
     {
       "state": "Jharkhand",
       "category": "Sales Jobs",
+      "count": 59
+    },
+    {
+      "state": "Rajasthan",
+      "category": "IT Jobs",
       "count": 55
-    },
-    {
-      "state": "Uttarakhand",
-      "category": "Sales Jobs",
-      "count": 53
-    },
-    {
-      "state": "Gujarat",
-      "category": "Accounting & Finance Jobs",
-      "count": 48
     },
     {
       "state": "Delhi",
       "category": "IT Jobs",
-      "count": 47
-    },
-    {
-      "state": "Gujarat",
-      "category": "Engineering Jobs",
-      "count": 44
+      "count": 54
     },
     {
       "state": "Madhya Pradesh",
       "category": "Sales Jobs",
-      "count": 43
+      "count": 48
+    },
+    {
+      "state": "Andhra Pradesh",
+      "category": "IT Jobs",
+      "count": 48
     },
     {
       "state": "Uttarakhand",
       "category": "IT Jobs",
-      "count": 40
+      "count": 46
     },
     {
       "state": "Maharashtra",
+      "category": "Accounting & Finance Jobs",
+      "count": 42
+    },
+    {
+      "state": "Uttarakhand",
+      "category": "Sales Jobs",
+      "count": 41
+    },
+    {
+      "state": "Gujarat",
       "category": "Accounting & Finance Jobs",
       "count": 39
     },
     {
-      "state": "Bihar",
+      "state": "Gujarat",
+      "category": "IT Jobs",
+      "count": 38
+    },
+    {
+      "state": "Haryana",
       "category": "Accounting & Finance Jobs",
       "count": 37
     },
     {
-      "state": "Karnataka",
-      "category": "Engineering Jobs",
+      "state": "Rajasthan",
+      "category": "Sales Jobs",
       "count": 36
     },
     {
-      "state": "Rajasthan",
-      "category": "Sales Jobs",
+      "state": "Bihar",
+      "category": "IT Jobs",
+      "count": 36
+    },
+    {
+      "state": "Gujarat",
+      "category": "Engineering Jobs",
       "count": 35
     },
     {
       "state": "Bihar",
-      "category": "IT Jobs",
-      "count": 32
+      "category": "Accounting & Finance Jobs",
+      "count": 33
     },
     {
       "state": "Assam",
       "category": "IT Jobs",
-      "count": 32
-    },
-    {
-      "state": "West Bengal",
-      "category": "Sales Jobs",
       "count": 31
     },
     {
-      "state": "Kerala",
-      "category": "Sales Jobs",
+      "state": "Assam",
+      "category": "Engineering Jobs",
       "count": 30
     },
     {
-      "state": "Rajasthan",
-      "category": "Accounting & Finance Jobs",
-      "count": 29
-    },
-    {
-      "state": "Delhi",
-      "category": "PR, Advertising & Marketing Jobs",
-      "count": 29
-    },
-    {
-      "state": "Delhi",
-      "category": "Sales Jobs",
-      "count": 29
-    },
-    {
       "state": "Uttar Pradesh",
       "category": "PR, Advertising & Marketing Jobs",
       "count": 28
-    },
-    {
-      "state": "Assam",
-      "category": "Engineering Jobs",
-      "count": 28
-    },
-    {
-      "state": "Delhi",
-      "category": "Accounting & Finance Jobs",
-      "count": 26
-    },
-    {
-      "state": "Haryana",
-      "category": "Accounting & Finance Jobs",
-      "count": 26
-    },
-    {
-      "state": "Tamil Nadu",
-      "category": "Sales Jobs",
-      "count": 26
-    },
-    {
-      "state": "Tamil Nadu",
-      "category": "Engineering Jobs",
-      "count": 26
     },
     {
       "state": "Gujarat",
-      "category": "IT Jobs",
+      "category": "Sales Jobs",
+      "count": 28
+    },
+    {
+      "state": "West Bengal",
+      "category": "Sales Jobs",
+      "count": 28
+    },
+    {
+      "state": "Delhi",
+      "category": "Sales Jobs",
+      "count": 27
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Engineering Jobs",
+      "count": 27
+    },
+    {
+      "state": "Maharashtra",
+      "category": "Creative & Design Jobs",
       "count": 26
     },
     {
-      "state": "Andhra Pradesh",
-      "category": "Accounting & Finance Jobs",
-      "count": 25
-    },
-    {
-      "state": "Uttar Pradesh",
-      "category": "Sales Jobs",
-      "count": 25
-    },
-    {
-      "state": "Maharashtra",
-      "category": "PR, Advertising & Marketing Jobs",
-      "count": 25
-    },
-    {
-      "state": "Maharashtra",
-      "category": "Sales Jobs",
-      "count": 25
-    },
-    {
-      "state": "Punjab",
-      "category": "Accounting & Finance Jobs",
-      "count": 25
-    },
-    {
       "state": "Haryana",
+      "category": "Sales Jobs",
+      "count": 26
+    },
+    {
+      "state": "Delhi",
+      "category": "PR, Advertising & Marketing Jobs",
+      "count": 26
+    },
+    {
+      "state": "West Bengal",
+      "category": "Accounting & Finance Jobs",
+      "count": 26
+    },
+    {
+      "state": "Karnataka",
+      "category": "Accounting & Finance Jobs",
+      "count": 25
+    },
+    {
+      "state": "Assam",
+      "category": "Accounting & Finance Jobs",
+      "count": 25
+    },
+    {
+      "state": "Karnataka",
+      "category": "Engineering Jobs",
+      "count": 25
+    },
+    {
+      "state": "Kerala",
       "category": "Sales Jobs",
       "count": 25
     },
@@ -630,253 +615,288 @@
       "count": 25
     },
     {
-      "state": "Gujarat",
-      "category": "Sales Jobs",
-      "count": 24
-    },
-    {
-      "state": "Kerala",
-      "category": "Accounting & Finance Jobs",
-      "count": 24
-    },
-    {
-      "state": "West Bengal",
-      "category": "Accounting & Finance Jobs",
-      "count": 24
-    },
-    {
-      "state": "Kerala",
-      "category": "Healthcare & Nursing Jobs",
-      "count": 23
-    },
-    {
-      "state": "Assam",
-      "category": "Accounting & Finance Jobs",
-      "count": 23
-    },
-    {
-      "state": "Uttar Pradesh",
+      "state": "Haryana",
       "category": "Engineering Jobs",
-      "count": 22
+      "count": 24
     },
     {
-      "state": "Karnataka",
+      "state": "Delhi",
       "category": "Accounting & Finance Jobs",
+      "count": 24
+    },
+    {
+      "state": "Andhra Pradesh",
+      "category": "Accounting & Finance Jobs",
+      "count": 23
+    },
+    {
+      "state": "Delhi",
+      "category": "Engineering Jobs",
       "count": 22
     },
     {
       "state": "Madhya Pradesh",
       "category": "Accounting & Finance Jobs",
+      "count": 22
+    },
+    {
+      "state": "Rajasthan",
+      "category": "Accounting & Finance Jobs",
+      "count": 22
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Accounting & Finance Jobs",
       "count": 21
+    },
+    {
+      "state": "Uttar Pradesh",
+      "category": "Sales Jobs",
+      "count": 20
     },
     {
       "state": "Assam",
       "category": "Hospitality & Catering Jobs",
-      "count": 21
-    },
-    {
-      "state": "Uttar Pradesh",
-      "category": "Accounting & Finance Jobs",
-      "count": 21
-    },
-    {
-      "state": "Andhra Pradesh",
-      "category": "Engineering Jobs",
       "count": 20
     },
     {
-      "state": "Andhra Pradesh",
-      "category": "Teaching Jobs",
+      "state": "Tamil Nadu",
+      "category": "Sales Jobs",
       "count": 20
     },
     {
-      "state": "Rajasthan",
-      "category": "PR, Advertising & Marketing Jobs",
+      "state": "Kerala",
+      "category": "Healthcare & Nursing Jobs",
       "count": 19
     },
     {
-      "state": "Telangana",
-      "category": "Engineering Jobs",
-      "count": 19
-    },
-    {
-      "state": "Karnataka",
+      "state": "Maharashtra",
       "category": "Sales Jobs",
       "count": 19
     },
     {
-      "state": "Uttar Pradesh",
+      "state": "Maharashtra",
+      "category": "PR, Advertising & Marketing Jobs",
+      "count": 19
+    },
+    {
+      "state": "Andhra Pradesh",
       "category": "Teaching Jobs",
       "count": 19
     },
     {
       "state": "Gujarat",
+      "category": "PR, Advertising & Marketing Jobs",
+      "count": 19
+    },
+    {
+      "state": "Kerala",
+      "category": "Accounting & Finance Jobs",
+      "count": 18
+    },
+    {
+      "state": "Uttarakhand",
+      "category": "Teaching Jobs",
+      "count": 18
+    },
+    {
+      "state": "Uttar Pradesh",
+      "category": "Teaching Jobs",
+      "count": 18
+    },
+    {
+      "state": "Telangana",
+      "category": "Accounting & Finance Jobs",
+      "count": 18
+    },
+    {
+      "state": "Uttar Pradesh",
+      "category": "Accounting & Finance Jobs",
+      "count": 18
+    },
+    {
+      "state": "Rajasthan",
       "category": "Creative & Design Jobs",
       "count": 18
     },
     {
-      "state": "Kerala",
-      "category": "Engineering Jobs",
+      "state": "Karnataka",
+      "category": "Sales Jobs",
       "count": 18
     },
     {
-      "state": "Haryana",
+      "state": "Maharashtra",
       "category": "Engineering Jobs",
-      "count": 18
+      "count": 16
+    },
+    {
+      "state": "Punjab",
+      "category": "Accounting & Finance Jobs",
+      "count": 16
+    },
+    {
+      "state": "Gujarat",
+      "category": "Creative & Design Jobs",
+      "count": 16
+    },
+    {
+      "state": "Karnataka",
+      "category": "PR, Advertising & Marketing Jobs",
+      "count": 16
+    },
+    {
+      "state": "Odisha",
+      "category": "PR, Advertising & Marketing Jobs",
+      "count": 16
+    },
+    {
+      "state": "Odisha",
+      "category": "Accounting & Finance Jobs",
+      "count": 15
+    },
+    {
+      "state": "Rajasthan",
+      "category": "PR, Advertising & Marketing Jobs",
+      "count": 15
+    },
+    {
+      "state": "Andhra Pradesh",
+      "category": "Engineering Jobs",
+      "count": 15
     },
     {
       "state": "Jharkhand",
-      "category": "Healthcare & Nursing Jobs",
-      "count": 18
+      "category": "Accounting & Finance Jobs",
+      "count": 15
     },
     {
-      "state": "Tamil Nadu",
+      "state": "Kerala",
+      "category": "PR, Advertising & Marketing Jobs",
+      "count": 14
+    },
+    {
+      "state": "Madhya Pradesh",
+      "category": "PR, Advertising & Marketing Jobs",
+      "count": 14
+    },
+    {
+      "state": "Punjab",
+      "category": "PR, Advertising & Marketing Jobs",
+      "count": 14
+    },
+    {
+      "state": "Gujarat",
+      "category": "Teaching Jobs",
+      "count": 14
+    },
+    {
+      "state": "Bihar",
+      "category": "Creative & Design Jobs",
+      "count": 14
+    },
+    {
+      "state": "Bihar",
+      "category": "Retail Jobs",
+      "count": 13
+    },
+    {
+      "state": "Punjab",
+      "category": "Engineering Jobs",
+      "count": 13
+    },
+    {
+      "state": "Kerala",
+      "category": "Engineering Jobs",
+      "count": 13
+    },
+    {
+      "state": "Uttar Pradesh",
+      "category": "Engineering Jobs",
+      "count": 13
+    },
+    {
+      "state": "Haryana",
+      "category": "PR, Advertising & Marketing Jobs",
+      "count": 13
+    },
+    {
+      "state": "Punjab",
+      "category": "Teaching Jobs",
+      "count": 12
+    },
+    {
+      "state": "Rajasthan",
+      "category": "Engineering Jobs",
+      "count": 12
+    },
+    {
+      "state": "Kerala",
+      "category": "Hospitality & Catering Jobs",
+      "count": 12
+    },
+    {
+      "state": "Uttarakhand",
       "category": "Accounting & Finance Jobs",
-      "count": 18
+      "count": 12
+    },
+    {
+      "state": "Telangana",
+      "category": "Engineering Jobs",
+      "count": 12
     },
     {
       "state": "Delhi",
-      "category": "Engineering Jobs",
-      "count": 17
-    },
-    {
-      "state": "Telangana",
-      "category": "Accounting & Finance Jobs",
-      "count": 17
-    },
-    {
-      "state": "Maharashtra",
-      "category": "Creative & Design Jobs",
-      "count": 16
+      "category": "Teaching Jobs",
+      "count": 12
     },
     {
       "state": "Telangana",
       "category": "Sales Jobs",
-      "count": 16
-    },
-    {
-      "state": "Uttarakhand",
-      "category": "Teaching Jobs",
-      "count": 16
-    },
-    {
-      "state": "Jharkhand",
-      "category": "Accounting & Finance Jobs",
-      "count": 16
-    },
-    {
-      "state": "Maharashtra",
-      "category": "Engineering Jobs",
-      "count": 16
-    },
-    {
-      "state": "Madhya Pradesh",
-      "category": "Healthcare & Nursing Jobs",
-      "count": 16
-    },
-    {
-      "state": "Odisha",
-      "category": "Accounting & Finance Jobs",
-      "count": 15
-    },
-    {
-      "state": "Kerala",
-      "category": "Creative & Design Jobs",
-      "count": 15
-    },
-    {
-      "state": "Uttarakhand",
-      "category": "Accounting & Finance Jobs",
-      "count": 15
-    },
-    {
-      "state": "Odisha",
-      "category": "PR, Advertising & Marketing Jobs",
-      "count": 15
-    },
-    {
-      "state": "Madhya Pradesh",
-      "category": "PR, Advertising & Marketing Jobs",
-      "count": 14
-    },
-    {
-      "state": "Haryana",
-      "category": "Creative & Design Jobs",
-      "count": 14
-    },
-    {
-      "state": "West Bengal",
-      "category": "Customer Services Jobs",
-      "count": 13
-    },
-    {
-      "state": "West Bengal",
-      "category": "Engineering Jobs",
-      "count": 13
-    },
-    {
-      "state": "Punjab",
-      "category": "PR, Advertising & Marketing Jobs",
-      "count": 13
-    },
-    {
-      "state": "Tamil Nadu",
-      "category": "Creative & Design Jobs",
-      "count": 13
-    },
-    {
-      "state": "Gujarat",
-      "category": "Teaching Jobs",
-      "count": 13
-    },
-    {
-      "state": "Odisha",
-      "category": "Engineering Jobs",
-      "count": 13
+      "count": 12
     },
     {
       "state": "Rajasthan",
-      "category": "HR & Recruitment Jobs",
-      "count": 12
-    },
-    {
-      "state": "Jharkhand",
-      "category": "Engineering Jobs",
-      "count": 12
-    },
-    {
-      "state": "Haryana",
-      "category": "PR, Advertising & Marketing Jobs",
-      "count": 12
-    },
-    {
-      "state": "Gujarat",
-      "category": "PR, Advertising & Marketing Jobs",
+      "category": "Teaching Jobs",
       "count": 12
     },
     {
       "state": "Punjab",
-      "category": "Engineering Jobs",
+      "category": "Hospitality & Catering Jobs",
       "count": 12
     },
     {
       "state": "Madhya Pradesh",
-      "category": "Creative & Design Jobs",
+      "category": "Admin Jobs",
       "count": 12
     },
     {
-      "state": "Uttar Pradesh",
-      "category": "Creative & Design Jobs",
+      "state": "Rajasthan",
+      "category": "Hospitality & Catering Jobs",
       "count": 12
     },
     {
-      "state": "Madhya Pradesh",
+      "state": "Rajasthan",
+      "category": "Admin Jobs",
+      "count": 12
+    },
+    {
+      "state": "Punjab",
       "category": "Customer Services Jobs",
       "count": 11
     },
     {
       "state": "West Bengal",
       "category": "Teaching Jobs",
+      "count": 11
+    },
+    {
+      "state": "West Bengal",
+      "category": "Creative & Design Jobs",
+      "count": 11
+    },
+    {
+      "state": "Jharkhand",
+      "category": "Engineering Jobs",
       "count": 11
     },
     {
@@ -885,17 +905,7 @@
       "count": 11
     },
     {
-      "state": "Karnataka",
-      "category": "Creative & Design Jobs",
-      "count": 11
-    },
-    {
-      "state": "Gujarat",
-      "category": "Scientific & QA Jobs",
-      "count": 11
-    },
-    {
-      "state": "Assam",
+      "state": "Uttar Pradesh",
       "category": "Creative & Design Jobs",
       "count": 11
     },
@@ -905,73 +915,123 @@
       "count": 11
     },
     {
-      "state": "West Bengal",
-      "category": "PR, Advertising & Marketing Jobs",
-      "count": 11
-    },
-    {
       "state": "Odisha",
       "category": "Healthcare & Nursing Jobs",
       "count": 10
     },
     {
-      "state": "Kerala",
-      "category": "Hospitality & Catering Jobs",
-      "count": 10
-    },
-    {
-      "state": "West Bengal",
+      "state": "Madhya Pradesh",
       "category": "Creative & Design Jobs",
-      "count": 10
-    },
-    {
-      "state": "Bihar",
-      "category": "Retail Jobs",
       "count": 10
     },
     {
       "state": "Karnataka",
+      "category": "HR & Recruitment Jobs",
+      "count": 10
+    },
+    {
+      "state": "Madhya Pradesh",
+      "category": "Engineering Jobs",
+      "count": 10
+    },
+    {
+      "state": "Odisha",
+      "category": "Engineering Jobs",
+      "count": 10
+    },
+    {
+      "state": "Andhra Pradesh",
       "category": "PR, Advertising & Marketing Jobs",
       "count": 10
     },
     {
-      "state": "Haryana",
+      "state": "Rajasthan",
       "category": "HR & Recruitment Jobs",
       "count": 10
+    },
+    {
+      "state": "West Bengal",
+      "category": "PR, Advertising & Marketing Jobs",
+      "count": 10
+    },
+    {
+      "state": "Punjab",
+      "category": "Healthcare & Nursing Jobs",
+      "count": 10
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Teaching Jobs",
+      "count": 10
+    },
+    {
+      "state": "Telangana",
+      "category": "Teaching Jobs",
+      "count": 10
+    },
+    {
+      "state": "Uttarakhand",
+      "category": "PR, Advertising & Marketing Jobs",
+      "count": 10
+    },
+    {
+      "state": "Uttarakhand",
+      "category": "Manufacturing Jobs",
+      "count": 9
+    },
+    {
+      "state": "Uttarakhand",
+      "category": "Engineering Jobs",
+      "count": 9
+    },
+    {
+      "state": "Kerala",
+      "category": "Creative & Design Jobs",
+      "count": 9
     },
     {
       "state": "Rajasthan",
       "category": "Customer Services Jobs",
-      "count": 10
+      "count": 9
     },
     {
-      "state": "Rajasthan",
-      "category": "Creative & Design Jobs",
-      "count": 10
-    },
-    {
-      "state": "Haryana",
-      "category": "Scientific & QA Jobs",
-      "count": 10
-    },
-    {
-      "state": "Bihar",
-      "category": "Creative & Design Jobs",
-      "count": 10
-    },
-    {
-      "state": "Uttar Pradesh",
-      "category": "HR & Recruitment Jobs",
+      "state": "Madhya Pradesh",
+      "category": "Teaching Jobs",
       "count": 9
     },
     {
       "state": "Maharashtra",
+      "category": "Scientific & QA Jobs",
+      "count": 9
+    },
+    {
+      "state": "Jharkhand",
+      "category": "Teaching Jobs",
+      "count": 9
+    },
+    {
+      "state": "Karnataka",
+      "category": "Creative & Design Jobs",
+      "count": 9
+    },
+    {
+      "state": "Uttar Pradesh",
+      "category": "Admin Jobs",
+      "count": 9
+    },
+    {
+      "state": "Uttarakhand",
+      "category": "Creative & Design Jobs",
+      "count": 9
+    },
+    {
+      "state": "Delhi",
       "category": "HR & Recruitment Jobs",
       "count": 9
     },
     {
-      "state": "Bihar",
-      "category": "Manufacturing Jobs",
+      "state": "Andhra Pradesh",
+      "category": "Creative & Design Jobs",
       "count": 9
     },
     {
@@ -981,136 +1041,161 @@
     },
     {
       "state": "Andhra Pradesh",
-      "category": "Creative & Design Jobs",
-      "count": 9
-    },
-    {
-      "state": "Rajasthan",
-      "category": "Engineering Jobs",
-      "count": 9
-    },
-    {
-      "state": "Punjab",
       "category": "Healthcare & Nursing Jobs",
       "count": 9
     },
     {
-      "state": "Madhya Pradesh",
+      "state": "Andhra Pradesh",
+      "category": "HR & Recruitment Jobs",
+      "count": 9
+    },
+    {
+      "state": "Jharkhand",
+      "category": "Healthcare & Nursing Jobs",
+      "count": 9
+    },
+    {
+      "state": "Uttar Pradesh",
+      "category": "HR & Recruitment Jobs",
+      "count": 9
+    },
+    {
+      "state": "West Bengal",
+      "category": "Engineering Jobs",
+      "count": 8
+    },
+    {
+      "state": "Gujarat",
+      "category": "HR & Recruitment Jobs",
+      "count": 8
+    },
+    {
+      "state": "Haryana",
+      "category": "Creative & Design Jobs",
+      "count": 8
+    },
+    {
+      "state": "Haryana",
+      "category": "HR & Recruitment Jobs",
+      "count": 8
+    },
+    {
+      "state": "Haryana",
+      "category": "Teaching Jobs",
+      "count": 8
+    },
+    {
+      "state": "Telangana",
+      "category": "HR & Recruitment Jobs",
+      "count": 8
+    },
+    {
+      "state": "Bihar",
+      "category": "Manufacturing Jobs",
+      "count": 8
+    },
+    {
+      "state": "Bihar",
+      "category": "Engineering Jobs",
+      "count": 8
+    },
+    {
+      "state": "Kerala",
+      "category": "Teaching Jobs",
+      "count": 8
+    },
+    {
+      "state": "West Bengal",
+      "category": "Scientific & QA Jobs",
+      "count": 8
+    },
+    {
+      "state": "Andhra Pradesh",
       "category": "Trade & Construction Jobs",
-      "count": 9
+      "count": 7
+    },
+    {
+      "state": "Assam",
+      "category": "Energy, Oil & Gas Jobs",
+      "count": 7
+    },
+    {
+      "state": "Assam",
+      "category": "Creative & Design Jobs",
+      "count": 7
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Creative & Design Jobs",
+      "count": 7
     },
     {
       "state": "West Bengal",
-      "category": "Scientific & QA Jobs",
-      "count": 9
+      "category": "Healthcare & Nursing Jobs",
+      "count": 7
     },
     {
-      "state": "Madhya Pradesh",
-      "category": "Engineering Jobs",
-      "count": 9
+      "state": "Maharashtra",
+      "category": "HR & Recruitment Jobs",
+      "count": 7
+    },
+    {
+      "state": "Punjab",
+      "category": "Admin Jobs",
+      "count": 7
+    },
+    {
+      "state": "Gujarat",
+      "category": "Admin Jobs",
+      "count": 7
     },
     {
       "state": "Uttarakhand",
-      "category": "HR & Recruitment Jobs",
-      "count": 9
+      "category": "Healthcare & Nursing Jobs",
+      "count": 7
+    },
+    {
+      "state": "Assam",
+      "category": "PR, Advertising & Marketing Jobs",
+      "count": 7
+    },
+    {
+      "state": "Haryana",
+      "category": "Logistics & Warehouse Jobs",
+      "count": 7
     },
     {
       "state": "Telangana",
       "category": "Creative & Design Jobs",
-      "count": 9
+      "count": 7
     },
     {
-      "state": "Delhi",
-      "category": "Teaching Jobs",
-      "count": 9
+      "state": "Jharkhand",
+      "category": "HR & Recruitment Jobs",
+      "count": 7
     },
     {
-      "state": "Uttarakhand",
-      "category": "Manufacturing Jobs",
-      "count": 9
+      "state": "Haryana",
+      "category": "Scientific & QA Jobs",
+      "count": 7
     },
     {
-      "state": "Uttarakhand",
-      "category": "PR, Advertising & Marketing Jobs",
-      "count": 8
+      "state": "Uttar Pradesh",
+      "category": "Customer Services Jobs",
+      "count": 7
     },
     {
       "state": "Delhi",
       "category": "Retail Jobs",
-      "count": 8
+      "count": 7
     },
     {
-      "state": "Kerala",
-      "category": "Admin Jobs",
-      "count": 8
+      "state": "Gujarat",
+      "category": "Retail Jobs",
+      "count": 7
     },
     {
-      "state": "Punjab",
-      "category": "Customer Services Jobs",
-      "count": 8
-    },
-    {
-      "state": "Tamil Nadu",
-      "category": "PR, Advertising & Marketing Jobs",
-      "count": 8
-    },
-    {
-      "state": "Haryana",
-      "category": "Teaching Jobs",
-      "count": 8
-    },
-    {
-      "state": "Uttarakhand",
-      "category": "Admin Jobs",
-      "count": 8
-    },
-    {
-      "state": "Delhi",
-      "category": "HR & Recruitment Jobs",
-      "count": 8
-    },
-    {
-      "state": "Delhi",
-      "category": "Consultancy Jobs",
-      "count": 8
-    },
-    {
-      "state": "Kerala",
-      "category": "PR, Advertising & Marketing Jobs",
-      "count": 8
-    },
-    {
-      "state": "Madhya Pradesh",
-      "category": "HR & Recruitment Jobs",
-      "count": 8
-    },
-    {
-      "state": "Maharashtra",
-      "category": "Admin Jobs",
-      "count": 8
-    },
-    {
-      "state": "Bihar",
-      "category": "Admin Jobs",
-      "count": 8
-    },
-    {
-      "state": "Rajasthan",
-      "category": "Admin Jobs",
-      "count": 8
-    },
-    {
-      "state": "Tamil Nadu",
-      "category": "HR & Recruitment Jobs",
-      "count": 8
-    },
-    {
-      "state": "Haryana",
-      "category": "Customer Services Jobs",
-      "count": 8
-    },
-    {
-      "state": "Assam",
+      "state": "Jharkhand",
       "category": "Energy, Oil & Gas Jobs",
       "count": 7
     },
@@ -1121,96 +1206,6 @@
     },
     {
       "state": "Uttarakhand",
-      "category": "Creative & Design Jobs",
-      "count": 7
-    },
-    {
-      "state": "Delhi",
-      "category": "Healthcare & Nursing Jobs",
-      "count": 7
-    },
-    {
-      "state": "Telangana",
-      "category": "Teaching Jobs",
-      "count": 7
-    },
-    {
-      "state": "Rajasthan",
-      "category": "Teaching Jobs",
-      "count": 7
-    },
-    {
-      "state": "Assam",
-      "category": "PR, Advertising & Marketing Jobs",
-      "count": 7
-    },
-    {
-      "state": "Telangana",
-      "category": "Admin Jobs",
-      "count": 7
-    },
-    {
-      "state": "Haryana",
-      "category": "Admin Jobs",
-      "count": 7
-    },
-    {
-      "state": "Gujarat",
-      "category": "Retail Jobs",
-      "count": 7
-    },
-    {
-      "state": "Gujarat",
-      "category": "HR & Recruitment Jobs",
-      "count": 7
-    },
-    {
-      "state": "Rajasthan",
-      "category": "Healthcare & Nursing Jobs",
-      "count": 7
-    },
-    {
-      "state": "Andhra Pradesh",
-      "category": "Healthcare & Nursing Jobs",
-      "count": 7
-    },
-    {
-      "state": "Punjab",
-      "category": "Admin Jobs",
-      "count": 7
-    },
-    {
-      "state": "Uttarakhand",
-      "category": "Engineering Jobs",
-      "count": 7
-    },
-    {
-      "state": "West Bengal",
-      "category": "Healthcare & Nursing Jobs",
-      "count": 7
-    },
-    {
-      "state": "Assam",
-      "category": "Customer Services Jobs",
-      "count": 6
-    },
-    {
-      "state": "Andhra Pradesh",
-      "category": "Admin Jobs",
-      "count": 6
-    },
-    {
-      "state": "West Bengal",
-      "category": "Manufacturing Jobs",
-      "count": 6
-    },
-    {
-      "state": "Uttar Pradesh",
-      "category": "Admin Jobs",
-      "count": 6
-    },
-    {
-      "state": "West Bengal",
       "category": "HR & Recruitment Jobs",
       "count": 6
     },
@@ -1220,8 +1215,48 @@
       "count": 6
     },
     {
-      "state": "Karnataka",
-      "category": "Logistics & Warehouse Jobs",
+      "state": "Bihar",
+      "category": "Admin Jobs",
+      "count": 6
+    },
+    {
+      "state": "Assam",
+      "category": "HR & Recruitment Jobs",
+      "count": 6
+    },
+    {
+      "state": "Odisha",
+      "category": "Teaching Jobs",
+      "count": 6
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Hospitality & Catering Jobs",
+      "count": 6
+    },
+    {
+      "state": "Madhya Pradesh",
+      "category": "HR & Recruitment Jobs",
+      "count": 6
+    },
+    {
+      "state": "Rajasthan",
+      "category": "Healthcare & Nursing Jobs",
+      "count": 6
+    },
+    {
+      "state": "West Bengal",
+      "category": "Customer Services Jobs",
+      "count": 6
+    },
+    {
+      "state": "Odisha",
+      "category": "HR & Recruitment Jobs",
+      "count": 6
+    },
+    {
+      "state": "West Bengal",
+      "category": "Admin Jobs",
       "count": 6
     },
     {
@@ -1231,82 +1266,127 @@
     },
     {
       "state": "Punjab",
-      "category": "HR & Recruitment Jobs",
+      "category": "Creative & Design Jobs",
       "count": 6
     },
     {
-      "state": "Karnataka",
-      "category": "HR & Recruitment Jobs",
+      "state": "Gujarat",
+      "category": "Healthcare & Nursing Jobs",
       "count": 6
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "PR, Advertising & Marketing Jobs",
+      "count": 6
+    },
+    {
+      "state": "Delhi",
+      "category": "Legal Jobs",
+      "count": 6
+    },
+    {
+      "state": "Andhra Pradesh",
+      "category": "Hospitality & Catering Jobs",
+      "count": 5
+    },
+    {
+      "state": "Gujarat",
+      "category": "Customer Services Jobs",
+      "count": 5
+    },
+    {
+      "state": "Gujarat",
+      "category": "Logistics & Warehouse Jobs",
+      "count": 5
+    },
+    {
+      "state": "Gujarat",
+      "category": "Scientific & QA Jobs",
+      "count": 5
+    },
+    {
+      "state": "Andhra Pradesh",
+      "category": "Scientific & QA Jobs",
+      "count": 5
+    },
+    {
+      "state": "West Bengal",
+      "category": "Legal Jobs",
+      "count": 5
+    },
+    {
+      "state": "West Bengal",
+      "category": "HR & Recruitment Jobs",
+      "count": 5
+    },
+    {
+      "state": "West Bengal",
+      "category": "Retail Jobs",
+      "count": 5
+    },
+    {
+      "state": "Maharashtra",
+      "category": "Trade & Construction Jobs",
+      "count": 5
+    },
+    {
+      "state": "Madhya Pradesh",
+      "category": "Trade & Construction Jobs",
+      "count": 5
+    },
+    {
+      "state": "Maharashtra",
+      "category": "Hospitality & Catering Jobs",
+      "count": 5
+    },
+    {
+      "state": "Madhya Pradesh",
+      "category": "Retail Jobs",
+      "count": 5
+    },
+    {
+      "state": "Karnataka",
+      "category": "Teaching Jobs",
+      "count": 5
+    },
+    {
+      "state": "Rajasthan",
+      "category": "Manufacturing Jobs",
+      "count": 5
+    },
+    {
+      "state": "Maharashtra",
+      "category": "Admin Jobs",
+      "count": 5
     },
     {
       "state": "Maharashtra",
       "category": "Customer Services Jobs",
-      "count": 6
-    },
-    {
-      "state": "Gujarat",
-      "category": "Admin Jobs",
-      "count": 6
-    },
-    {
-      "state": "Gujarat",
-      "category": "Hospitality & Catering Jobs",
-      "count": 6
-    },
-    {
-      "state": "Gujarat",
-      "category": "Healthcare & Nursing Jobs",
-      "count": 6
-    },
-    {
-      "state": "Haryana",
-      "category": "Healthcare & Nursing Jobs",
-      "count": 6
-    },
-    {
-      "state": "Haryana",
-      "category": "Logistics & Warehouse Jobs",
-      "count": 6
-    },
-    {
-      "state": "Tamil Nadu",
-      "category": "Scientific & QA Jobs",
-      "count": 6
-    },
-    {
-      "state": "Tamil Nadu",
-      "category": "Healthcare & Nursing Jobs",
-      "count": 6
-    },
-    {
-      "state": "Punjab",
-      "category": "Hospitality & Catering Jobs",
-      "count": 6
-    },
-    {
-      "state": "Jharkhand",
-      "category": "Teaching Jobs",
-      "count": 6
-    },
-    {
-      "state": "Punjab",
-      "category": "Teaching Jobs",
-      "count": 6
-    },
-    {
-      "state": "Bihar",
-      "category": "Engineering Jobs",
-      "count": 6
-    },
-    {
-      "state": "Uttar Pradesh",
-      "category": "Consultancy Jobs",
       "count": 5
     },
     {
-      "state": "Telangana",
-      "category": "Scientific & QA Jobs",
+      "state": "Maharashtra",
+      "category": "Logistics & Warehouse Jobs",
+      "count": 5
+    },
+    {
+      "state": "Kerala",
+      "category": "Customer Services Jobs",
+      "count": 5
+    },
+    {
+      "state": "Haryana",
+      "category": "Customer Services Jobs",
+      "count": 5
+    },
+    {
+      "state": "Jharkhand",
+      "category": "Customer Services Jobs",
+      "count": 5
+    },
+    {
+      "state": "Delhi",
+      "category": "Healthcare & Nursing Jobs",
       "count": 5
     },
     {
@@ -1315,103 +1395,23 @@
       "count": 5
     },
     {
+      "state": "Bihar",
+      "category": "HR & Recruitment Jobs",
+      "count": 5
+    },
+    {
+      "state": "Uttar Pradesh",
+      "category": "Retail Jobs",
+      "count": 5
+    },
+    {
       "state": "Andhra Pradesh",
-      "category": "Trade & Construction Jobs",
-      "count": 5
-    },
-    {
-      "state": "Assam",
       "category": "Admin Jobs",
-      "count": 5
-    },
-    {
-      "state": "West Bengal",
-      "category": "Hospitality & Catering Jobs",
-      "count": 5
-    },
-    {
-      "state": "Punjab",
-      "category": "Retail Jobs",
-      "count": 5
-    },
-    {
-      "state": "Tamil Nadu",
-      "category": "Teaching Jobs",
-      "count": 5
-    },
-    {
-      "state": "Telangana",
-      "category": "HR & Recruitment Jobs",
-      "count": 5
-    },
-    {
-      "state": "Karnataka",
-      "category": "Customer Services Jobs",
-      "count": 5
-    },
-    {
-      "state": "Karnataka",
-      "category": "Admin Jobs",
-      "count": 5
-    },
-    {
-      "state": "Rajasthan",
-      "category": "Hospitality & Catering Jobs",
-      "count": 5
-    },
-    {
-      "state": "Jharkhand",
-      "category": "Energy, Oil & Gas Jobs",
-      "count": 5
-    },
-    {
-      "state": "Rajasthan",
-      "category": "Retail Jobs",
-      "count": 5
-    },
-    {
-      "state": "Jharkhand",
-      "category": "HR & Recruitment Jobs",
-      "count": 5
-    },
-    {
-      "state": "Jharkhand",
-      "category": "Hospitality & Catering Jobs",
-      "count": 5
-    },
-    {
-      "state": "Madhya Pradesh",
-      "category": "Teaching Jobs",
-      "count": 5
-    },
-    {
-      "state": "Karnataka",
-      "category": "Teaching Jobs",
-      "count": 5
-    },
-    {
-      "state": "Bihar",
-      "category": "Hospitality & Catering Jobs",
       "count": 5
     },
     {
       "state": "Bihar",
       "category": "Customer Services Jobs",
-      "count": 5
-    },
-    {
-      "state": "Punjab",
-      "category": "Creative & Design Jobs",
-      "count": 5
-    },
-    {
-      "state": "Odisha",
-      "category": "Retail Jobs",
-      "count": 5
-    },
-    {
-      "state": "Odisha",
-      "category": "Logistics & Warehouse Jobs",
       "count": 5
     },
     {
@@ -1420,273 +1420,238 @@
       "count": 5
     },
     {
-      "state": "Maharashtra",
-      "category": "Legal Jobs",
-      "count": 5
-    },
-    {
-      "state": "Kerala",
-      "category": "HR & Recruitment Jobs",
-      "count": 5
-    },
-    {
-      "state": "Kerala",
-      "category": "Retail Jobs",
-      "count": 5
-    },
-    {
-      "state": "Madhya Pradesh",
-      "category": "Scientific & QA Jobs",
-      "count": 5
-    },
-    {
-      "state": "West Bengal",
+      "state": "Uttarakhand",
       "category": "Admin Jobs",
       "count": 5
-    },
-    {
-      "state": "Uttarakhand",
-      "category": "Healthcare & Nursing Jobs",
-      "count": 5
-    },
-    {
-      "state": "Andhra Pradesh",
-      "category": "HR & Recruitment Jobs",
-      "count": 5
-    },
-    {
-      "state": "Andhra Pradesh",
-      "category": "Consultancy Jobs",
-      "count": 4
-    },
-    {
-      "state": "Andhra Pradesh",
-      "category": "PR, Advertising & Marketing Jobs",
-      "count": 4
-    },
-    {
-      "state": "Uttarakhand",
-      "category": "Trade & Construction Jobs",
-      "count": 4
-    },
-    {
-      "state": "Madhya Pradesh",
-      "category": "Admin Jobs",
-      "count": 4
-    },
-    {
-      "state": "Madhya Pradesh",
-      "category": "Retail Jobs",
-      "count": 4
-    },
-    {
-      "state": "Madhya Pradesh",
-      "category": "Energy, Oil & Gas Jobs",
-      "count": 4
-    },
-    {
-      "state": "Kerala",
-      "category": "Customer Services Jobs",
-      "count": 4
-    },
-    {
-      "state": "Kerala",
-      "category": "Teaching Jobs",
-      "count": 4
-    },
-    {
-      "state": "Maharashtra",
-      "category": "Teaching Jobs",
-      "count": 4
-    },
-    {
-      "state": "Karnataka",
-      "category": "Manufacturing Jobs",
-      "count": 4
-    },
-    {
-      "state": "Maharashtra",
-      "category": "Manufacturing Jobs",
-      "count": 4
     },
     {
       "state": "Delhi",
-      "category": "Legal Jobs",
-      "count": 4
-    },
-    {
-      "state": "Gujarat",
-      "category": "Trade & Construction Jobs",
-      "count": 4
-    },
-    {
-      "state": "Tamil Nadu",
-      "category": "Hospitality & Catering Jobs",
-      "count": 4
-    },
-    {
-      "state": "Tamil Nadu",
-      "category": "Trade & Construction Jobs",
-      "count": 4
-    },
-    {
-      "state": "Gujarat",
-      "category": "Logistics & Warehouse Jobs",
-      "count": 4
-    },
-    {
-      "state": "Telangana",
-      "category": "Legal Jobs",
-      "count": 4
-    },
-    {
-      "state": "Telangana",
-      "category": "Logistics & Warehouse Jobs",
-      "count": 4
-    },
-    {
-      "state": "Haryana",
-      "category": "Retail Jobs",
-      "count": 4
-    },
-    {
-      "state": "Rajasthan",
-      "category": "Scientific & QA Jobs",
-      "count": 4
-    },
-    {
-      "state": "Rajasthan",
       "category": "Consultancy Jobs",
-      "count": 4
-    },
-    {
-      "state": "Tamil Nadu",
-      "category": "Admin Jobs",
-      "count": 4
-    },
-    {
-      "state": "Tamil Nadu",
-      "category": "Consultancy Jobs",
-      "count": 4
-    },
-    {
-      "state": "Assam",
-      "category": "Trade & Construction Jobs",
-      "count": 4
-    },
-    {
-      "state": "Assam",
-      "category": "Manufacturing Jobs",
-      "count": 4
-    },
-    {
-      "state": "Bihar",
-      "category": "Consultancy Jobs",
-      "count": 4
-    },
-    {
-      "state": "Assam",
-      "category": "Teaching Jobs",
-      "count": 4
-    },
-    {
-      "state": "Bihar",
-      "category": "Logistics & Warehouse Jobs",
-      "count": 4
-    },
-    {
-      "state": "Assam",
-      "category": "HR & Recruitment Jobs",
-      "count": 4
-    },
-    {
-      "state": "Andhra Pradesh",
-      "category": "Retail Jobs",
-      "count": 4
-    },
-    {
-      "state": "Odisha",
-      "category": "Hospitality & Catering Jobs",
-      "count": 3
-    },
-    {
-      "state": "Odisha",
-      "category": "Teaching Jobs",
-      "count": 3
-    },
-    {
-      "state": "Bihar",
-      "category": "Healthcare & Nursing Jobs",
-      "count": 3
-    },
-    {
-      "state": "Odisha",
-      "category": "Scientific & QA Jobs",
-      "count": 3
-    },
-    {
-      "state": "Kerala",
-      "category": "Consultancy Jobs",
-      "count": 3
-    },
-    {
-      "state": "Rajasthan",
-      "category": "Travel Jobs",
-      "count": 3
-    },
-    {
-      "state": "Assam",
-      "category": "Scientific & QA Jobs",
-      "count": 3
-    },
-    {
-      "state": "Rajasthan",
-      "category": "Trade & Construction Jobs",
-      "count": 3
-    },
-    {
-      "state": "Rajasthan",
-      "category": "Property Jobs",
-      "count": 3
+      "count": 5
     },
     {
       "state": "Tamil Nadu",
       "category": "Customer Services Jobs",
-      "count": 3
+      "count": 5
     },
     {
-      "state": "Jharkhand",
-      "category": "Retail Jobs",
-      "count": 3
+      "state": "Karnataka",
+      "category": "Scientific & QA Jobs",
+      "count": 5
     },
     {
-      "state": "Assam",
+      "state": "Rajasthan",
       "category": "Retail Jobs",
-      "count": 3
+      "count": 5
     },
     {
       "state": "Punjab",
+      "category": "Retail Jobs",
+      "count": 5
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Consultancy Jobs",
+      "count": 5
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "HR & Recruitment Jobs",
+      "count": 5
+    },
+    {
+      "state": "Assam",
+      "category": "Retail Jobs",
+      "count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Retail Jobs",
+      "count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Scientific & QA Jobs",
+      "count": 4
+    },
+    {
+      "state": "Telangana",
+      "category": "Consultancy Jobs",
+      "count": 4
+    },
+    {
+      "state": "Gujarat",
+      "category": "Legal Jobs",
+      "count": 4
+    },
+    {
+      "state": "Delhi",
+      "category": "Scientific & QA Jobs",
+      "count": 4
+    },
+    {
+      "state": "Uttar Pradesh",
+      "category": "Consultancy Jobs",
+      "count": 4
+    },
+    {
+      "state": "Telangana",
+      "category": "Scientific & QA Jobs",
+      "count": 4
+    },
+    {
+      "state": "Uttar Pradesh",
+      "category": "Scientific & QA Jobs",
+      "count": 4
+    },
+    {
+      "state": "Assam",
+      "category": "Teaching Jobs",
+      "count": 4
+    },
+    {
+      "state": "Assam",
+      "category": "Trade & Construction Jobs",
+      "count": 4
+    },
+    {
+      "state": "Andhra Pradesh",
+      "category": "Customer Services Jobs",
+      "count": 4
+    },
+    {
+      "state": "Andhra Pradesh",
+      "category": "Consultancy Jobs",
+      "count": 4
+    },
+    {
+      "state": "Bihar",
+      "category": "Logistics & Warehouse Jobs",
+      "count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Logistics & Warehouse Jobs",
+      "count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Healthcare & Nursing Jobs",
+      "count": 4
+    },
+    {
+      "state": "Rajasthan",
+      "category": "Scientific & QA Jobs",
+      "count": 4
+    },
+    {
+      "state": "Madhya Pradesh",
+      "category": "Customer Services Jobs",
+      "count": 4
+    },
+    {
+      "state": "Madhya Pradesh",
+      "category": "Healthcare & Nursing Jobs",
+      "count": 4
+    },
+    {
+      "state": "Kerala",
+      "category": "Consultancy Jobs",
+      "count": 4
+    },
+    {
+      "state": "Kerala",
+      "category": "Retail Jobs",
+      "count": 4
+    },
+    {
+      "state": "Rajasthan",
+      "category": "Trade & Construction Jobs",
+      "count": 4
+    },
+    {
+      "state": "Punjab",
+      "category": "HR & Recruitment Jobs",
+      "count": 4
+    },
+    {
+      "state": "Odisha",
+      "category": "Scientific & QA Jobs",
+      "count": 4
+    },
+    {
+      "state": "Maharashtra",
+      "category": "Teaching Jobs",
+      "count": 4
+    },
+    {
+      "state": "Maharashtra",
+      "category": "Retail Jobs",
+      "count": 4
+    },
+    {
+      "state": "Maharashtra",
+      "category": "Legal Jobs",
+      "count": 4
+    },
+    {
+      "state": "Madhya Pradesh",
+      "category": "Manufacturing Jobs",
+      "count": 4
+    },
+    {
+      "state": "Odisha",
+      "category": "Creative & Design Jobs",
+      "count": 4
+    },
+    {
+      "state": "Odisha",
+      "category": "Energy, Oil & Gas Jobs",
+      "count": 4
+    },
+    {
+      "state": "West Bengal",
+      "category": "Consultancy Jobs",
+      "count": 4
+    },
+    {
+      "state": "Assam",
+      "category": "Customer Services Jobs",
+      "count": 4
+    },
+    {
+      "state": "Assam",
+      "category": "Admin Jobs",
+      "count": 4
+    },
+    {
+      "state": "Andhra Pradesh",
+      "category": "Logistics & Warehouse Jobs",
+      "count": 3
+    },
+    {
+      "state": "Odisha",
+      "category": "Logistics & Warehouse Jobs",
+      "count": 3
+    },
+    {
+      "state": "West Bengal",
       "category": "Manufacturing Jobs",
       "count": 3
     },
     {
-      "state": "Kerala",
-      "category": "Legal Jobs",
+      "state": "Odisha",
+      "category": "Customer Services Jobs",
       "count": 3
     },
     {
-      "state": "Kerala",
-      "category": "Trade & Construction Jobs",
-      "count": 3
-    },
-    {
-      "state": "Maharashtra",
-      "category": "Energy, Oil & Gas Jobs",
+      "state": "Odisha",
+      "category": "Retail Jobs",
       "count": 3
     },
     {
       "state": "Maharashtra",
-      "category": "Scientific & QA Jobs",
+      "category": "Manufacturing Jobs",
       "count": 3
     },
     {
@@ -1695,33 +1660,18 @@
       "count": 3
     },
     {
-      "state": "Karnataka",
-      "category": "Retail Jobs",
-      "count": 3
-    },
-    {
       "state": "Odisha",
-      "category": "Customer Services Jobs",
-      "count": 3
-    },
-    {
-      "state": "Odisha",
-      "category": "Consultancy Jobs",
-      "count": 3
-    },
-    {
-      "state": "Maharashtra",
-      "category": "Trade & Construction Jobs",
-      "count": 3
-    },
-    {
-      "state": "Andhra Pradesh",
       "category": "Hospitality & Catering Jobs",
       "count": 3
     },
     {
-      "state": "Uttarakhand",
-      "category": "Logistics & Warehouse Jobs",
+      "state": "Bihar",
+      "category": "Property Jobs",
+      "count": 3
+    },
+    {
+      "state": "Gujarat",
+      "category": "Consultancy Jobs",
       "count": 3
     },
     {
@@ -1730,243 +1680,323 @@
       "count": 3
     },
     {
-      "state": "Maharashtra",
-      "category": "Logistics & Warehouse Jobs",
+      "state": "Uttarakhand",
+      "category": "Trade & Construction Jobs",
       "count": 3
     },
     {
-      "state": "Andhra Pradesh",
-      "category": "Customer Services Jobs",
+      "state": "Assam",
+      "category": "Maintenance Jobs",
       "count": 3
     },
     {
-      "state": "Gujarat",
-      "category": "Customer Services Jobs",
+      "state": "Jharkhand",
+      "category": "Manufacturing Jobs",
       "count": 3
     },
     {
-      "state": "Tamil Nadu",
-      "category": "Logistics & Warehouse Jobs",
+      "state": "Jharkhand",
+      "category": "Scientific & QA Jobs",
+      "count": 3
+    },
+    {
+      "state": "Jharkhand",
+      "category": "Retail Jobs",
       "count": 3
     },
     {
       "state": "Haryana",
+      "category": "Trade & Construction Jobs",
+      "count": 3
+    },
+    {
+      "state": "Karnataka",
+      "category": "Admin Jobs",
+      "count": 3
+    },
+    {
+      "state": "Rajasthan",
+      "category": "Consultancy Jobs",
+      "count": 3
+    },
+    {
+      "state": "Madhya Pradesh",
+      "category": "Scientific & QA Jobs",
+      "count": 3
+    },
+    {
+      "state": "Bihar",
+      "category": "Legal Jobs",
+      "count": 3
+    },
+    {
+      "state": "Bihar",
+      "category": "Healthcare & Nursing Jobs",
+      "count": 3
+    },
+    {
+      "state": "Bihar",
+      "category": "Hospitality & Catering Jobs",
+      "count": 3
+    },
+    {
+      "state": "West Bengal",
+      "category": "Trade & Construction Jobs",
+      "count": 3
+    },
+    {
+      "state": "Assam",
+      "category": "Manufacturing Jobs",
+      "count": 3
+    },
+    {
+      "state": "Bihar",
       "category": "Consultancy Jobs",
       "count": 3
     },
     {
       "state": "Assam",
-      "category": "Consultancy Jobs",
+      "category": "Logistics & Warehouse Jobs",
       "count": 3
     },
     {
-      "state": "Andhra Pradesh",
-      "category": "Scientific & QA Jobs",
-      "count": 3
-    },
-    {
-      "state": "Delhi",
-      "category": "Scientific & QA Jobs",
-      "count": 3
-    },
-    {
-      "state": "Tamil Nadu",
-      "category": "Legal Jobs",
+      "state": "Haryana",
+      "category": "Admin Jobs",
       "count": 3
     },
     {
       "state": "Gujarat",
-      "category": "Energy, Oil & Gas Jobs",
-      "count": 3
-    },
-    {
-      "state": "Uttar Pradesh",
-      "category": "Customer Services Jobs",
+      "category": "Hospitality & Catering Jobs",
       "count": 3
     },
     {
       "state": "Gujarat",
-      "category": "Consultancy Jobs",
-      "count": 3
-    },
-    {
-      "state": "Rajasthan",
       "category": "Manufacturing Jobs",
       "count": 3
     },
     {
+      "state": "Haryana",
+      "category": "Hospitality & Catering Jobs",
+      "count": 3
+    },
+    {
+      "state": "Odisha",
+      "category": "Consultancy Jobs",
+      "count": 2
+    },
+    {
       "state": "West Bengal",
-      "category": "Retail Jobs",
-      "count": 3
-    },
-    {
-      "state": "Delhi",
-      "category": "Property Jobs",
-      "count": 3
-    },
-    {
-      "state": "Bihar",
-      "category": "Scientific & QA Jobs",
-      "count": 3
-    },
-    {
-      "state": "Uttar Pradesh",
-      "category": "Scientific & QA Jobs",
-      "count": 3
-    },
-    {
-      "state": "Delhi",
-      "category": "Customer Services Jobs",
-      "count": 3
-    },
-    {
-      "state": "Bihar",
-      "category": "Property Jobs",
+      "category": "Hospitality & Catering Jobs",
       "count": 2
     },
     {
-      "state": "Uttar Pradesh",
-      "category": "Retail Jobs",
+      "state": "Assam",
+      "category": "Consultancy Jobs",
       "count": 2
     },
     {
-      "state": "Andhra Pradesh",
-      "category": "Property Jobs",
+      "state": "Odisha",
+      "category": "Admin Jobs",
+      "count": 2
+    },
+    {
+      "state": "West Bengal",
+      "category": "Logistics & Warehouse Jobs",
+      "count": 2
+    },
+    {
+      "state": "Telangana",
+      "category": "Admin Jobs",
       "count": 2
     },
     {
       "state": "Haryana",
+      "category": "Consultancy Jobs",
+      "count": 2
+    },
+    {
+      "state": "Haryana",
+      "category": "Manufacturing Jobs",
+      "count": 2
+    },
+    {
+      "state": "Haryana",
+      "category": "Healthcare & Nursing Jobs",
+      "count": 2
+    },
+    {
+      "state": "Telangana",
       "category": "Trade & Construction Jobs",
       "count": 2
     },
     {
-      "state": "Jharkhand",
-      "category": "Creative & Design Jobs",
+      "state": "Uttar Pradesh",
+      "category": "Energy, Oil & Gas Jobs",
       "count": 2
     },
     {
-      "state": "Haryana",
-      "category": "Manufacturing Jobs",
+      "state": "Gujarat",
+      "category": "Trade & Construction Jobs",
       "count": 2
     },
     {
-      "state": "Haryana",
+      "state": "Maharashtra",
+      "category": "Energy, Oil & Gas Jobs",
+      "count": 2
+    },
+    {
+      "state": "Kerala",
+      "category": "Legal Jobs",
+      "count": 2
+    },
+    {
+      "state": "Kerala",
+      "category": "Logistics & Warehouse Jobs",
+      "count": 2
+    },
+    {
+      "state": "Kerala",
+      "category": "Property Jobs",
+      "count": 2
+    },
+    {
+      "state": "Maharashtra",
+      "category": "Consultancy Jobs",
+      "count": 2
+    },
+    {
+      "state": "Madhya Pradesh",
+      "category": "Consultancy Jobs",
+      "count": 2
+    },
+    {
+      "state": "Madhya Pradesh",
+      "category": "Energy, Oil & Gas Jobs",
+      "count": 2
+    },
+    {
+      "state": "Kerala",
+      "category": "Trade & Construction Jobs",
+      "count": 2
+    },
+    {
+      "state": "Punjab",
+      "category": "Legal Jobs",
+      "count": 2
+    },
+    {
+      "state": "Kerala",
+      "category": "Admin Jobs",
+      "count": 2
+    },
+    {
+      "state": "Rajasthan",
       "category": "Maintenance Jobs",
       "count": 2
     },
     {
-      "state": "Punjab",
+      "state": "Jharkhand",
       "category": "Logistics & Warehouse Jobs",
-      "count": 2
-    },
-    {
-      "state": "Punjab",
-      "category": "Property Jobs",
       "count": 2
     },
     {
       "state": "Rajasthan",
-      "category": "Energy, Oil & Gas Jobs",
+      "category": "Property Jobs",
       "count": 2
     },
     {
-      "state": "Madhya Pradesh",
-      "category": "Manufacturing Jobs",
+      "state": "Tamil Nadu",
+      "category": "Other/General Jobs",
       "count": 2
     },
     {
-      "state": "Madhya Pradesh",
-      "category": "Travel Jobs",
-      "count": 2
-    },
-    {
-      "state": "Maharashtra",
-      "category": "Retail Jobs",
-      "count": 2
-    },
-    {
-      "state": "Maharashtra",
-      "category": "Hospitality & Catering Jobs",
-      "count": 2
-    },
-    {
-      "state": "Maharashtra",
-      "category": "Consultancy Jobs",
-      "count": 2
-    },
-    {
-      "state": "Odisha",
-      "category": "HR & Recruitment Jobs",
-      "count": 2
-    },
-    {
-      "state": "Odisha",
+      "state": "Jharkhand",
       "category": "Creative & Design Jobs",
       "count": 2
     },
     {
-      "state": "Karnataka",
-      "category": "Healthcare & Nursing Jobs",
-      "count": 2
-    },
-    {
-      "state": "Karnataka",
-      "category": "Hospitality & Catering Jobs",
-      "count": 2
-    },
-    {
-      "state": "Andhra Pradesh",
-      "category": "Logistics & Warehouse Jobs",
-      "count": 2
-    },
-    {
-      "state": "Uttarakhand",
-      "category": "Customer Services Jobs",
-      "count": 2
-    },
-    {
-      "state": "Kerala",
-      "category": "Logistics & Warehouse Jobs",
-      "count": 2
-    },
-    {
-      "state": "Delhi",
+      "state": "Tamil Nadu",
       "category": "Manufacturing Jobs",
       "count": 2
     },
     {
-      "state": "West Bengal",
-      "category": "Logistics & Warehouse Jobs",
-      "count": 2
-    },
-    {
-      "state": "West Bengal",
+      "state": "Gujarat",
       "category": "Energy, Oil & Gas Jobs",
       "count": 2
     },
     {
       "state": "Telangana",
-      "category": "Consultancy Jobs",
+      "category": "Healthcare & Nursing Jobs",
       "count": 2
     },
     {
-      "state": "Gujarat",
-      "category": "Travel Jobs",
+      "state": "Telangana",
+      "category": "Legal Jobs",
       "count": 2
     },
     {
-      "state": "Tamil Nadu",
-      "category": "Retail Jobs",
-      "count": 2
-    },
-    {
-      "state": "Delhi",
-      "category": "Travel Jobs",
+      "state": "Assam",
+      "category": "Scientific & QA Jobs",
       "count": 2
     },
     {
       "state": "Uttar Pradesh",
+      "category": "Logistics & Warehouse Jobs",
+      "count": 2
+    },
+    {
+      "state": "Uttarakhand",
+      "category": "Consultancy Jobs",
+      "count": 2
+    },
+    {
+      "state": "Telangana",
+      "category": "Logistics & Warehouse Jobs",
+      "count": 2
+    },
+    {
+      "state": "Delhi",
+      "category": "Trade & Construction Jobs",
+      "count": 2
+    },
+    {
+      "state": "Delhi",
+      "category": "Property Jobs",
+      "count": 2
+    },
+    {
+      "state": "Rajasthan",
+      "category": "Logistics & Warehouse Jobs",
+      "count": 2
+    },
+    {
+      "state": "Rajasthan",
+      "category": "Legal Jobs",
+      "count": 2
+    },
+    {
+      "state": "Karnataka",
+      "category": "Legal Jobs",
+      "count": 2
+    },
+    {
+      "state": "Karnataka",
       "category": "Healthcare & Nursing Jobs",
+      "count": 2
+    },
+    {
+      "state": "Kerala",
+      "category": "HR & Recruitment Jobs",
+      "count": 2
+    },
+    {
+      "state": "Jharkhand",
+      "category": "Hospitality & Catering Jobs",
+      "count": 2
+    },
+    {
+      "state": "Bihar",
+      "category": "Domestic help & Cleaning Jobs",
       "count": 2
     },
     {
@@ -1975,88 +2005,123 @@
       "count": 2
     },
     {
-      "state": "Punjab",
-      "category": "Legal Jobs",
+      "state": "Uttarakhand",
+      "category": "Retail Jobs",
       "count": 2
     },
     {
-      "state": "Assam",
-      "category": "Travel Jobs",
-      "count": 2
+      "state": "Madhya Pradesh",
+      "category": "Other/General Jobs",
+      "count": 1
     },
     {
-      "state": "Karnataka",
-      "category": "Scientific & QA Jobs",
-      "count": 2
+      "state": "Odisha",
+      "category": "Property Jobs",
+      "count": 1
     },
     {
-      "state": "Jharkhand",
+      "state": "Odisha",
       "category": "Manufacturing Jobs",
-      "count": 2
+      "count": 1
     },
     {
-      "state": "Jharkhand",
-      "category": "Logistics & Warehouse Jobs",
-      "count": 2
+      "state": "Odisha",
+      "category": "Graduate Jobs",
+      "count": 1
     },
     {
-      "state": "Jharkhand",
-      "category": "PR, Advertising & Marketing Jobs",
-      "count": 2
-    },
-    {
-      "state": "Jharkhand",
-      "category": "Scientific & QA Jobs",
-      "count": 2
-    },
-    {
-      "state": "Rajasthan",
-      "category": "Logistics & Warehouse Jobs",
-      "count": 2
-    },
-    {
-      "state": "Andhra Pradesh",
+      "state": "West Bengal",
       "category": "Domestic help & Cleaning Jobs",
       "count": 1
     },
     {
       "state": "Andhra Pradesh",
+      "category": "Retail Jobs",
+      "count": 1
+    },
+    {
+      "state": "Odisha",
+      "category": "Legal Jobs",
+      "count": 1
+    },
+    {
+      "state": "Haryana",
+      "category": "Travel Jobs",
+      "count": 1
+    },
+    {
+      "state": "Haryana",
+      "category": "Retail Jobs",
+      "count": 1
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Legal Jobs",
+      "count": 1
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Energy, Oil & Gas Jobs",
+      "count": 1
+    },
+    {
+      "state": "Jharkhand",
       "category": "Part time Jobs",
       "count": 1
     },
     {
-      "state": "Andhra Pradesh",
+      "state": "Karnataka",
+      "category": "Customer Services Jobs",
+      "count": 1
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Admin Jobs",
+      "count": 1
+    },
+    {
+      "state": "Jharkhand",
+      "category": "PR, Advertising & Marketing Jobs",
+      "count": 1
+    },
+    {
+      "state": "Karnataka",
+      "category": "Trade & Construction Jobs",
+      "count": 1
+    },
+    {
+      "state": "Karnataka",
+      "category": "Logistics & Warehouse Jobs",
+      "count": 1
+    },
+    {
+      "state": "Karnataka",
+      "category": "Other/General Jobs",
+      "count": 1
+    },
+    {
+      "state": "Karnataka",
+      "category": "Property Jobs",
+      "count": 1
+    },
+    {
+      "state": "Jharkhand",
       "category": "Legal Jobs",
       "count": 1
     },
     {
-      "state": "Andhra Pradesh",
-      "category": "Maintenance Jobs",
+      "state": "Rajasthan",
+      "category": "Other/General Jobs",
       "count": 1
     },
     {
-      "state": "West Bengal",
-      "category": "Consultancy Jobs",
-      "count": 1
-    },
-    {
-      "state": "Madhya Pradesh",
-      "category": "Hospitality & Catering Jobs",
+      "state": "Jharkhand",
+      "category": "Other/General Jobs",
       "count": 1
     },
     {
       "state": "Madhya Pradesh",
-      "category": "Consultancy Jobs",
-      "count": 1
-    },
-    {
-      "state": "Uttarakhand",
-      "category": "Retail Jobs",
-      "count": 1
-    },
-    {
-      "state": "Madhya Pradesh",
-      "category": "Legal Jobs",
+      "category": "Travel Jobs",
       "count": 1
     },
     {
@@ -2066,57 +2131,27 @@
     },
     {
       "state": "Madhya Pradesh",
-      "category": "Other/General Jobs",
-      "count": 1
-    },
-    {
-      "state": "Kerala",
-      "category": "Graduate Jobs",
-      "count": 1
-    },
-    {
-      "state": "Karnataka",
-      "category": "Other/General Jobs",
-      "count": 1
-    },
-    {
-      "state": "Karnataka",
       "category": "Legal Jobs",
       "count": 1
     },
     {
-      "state": "Karnataka",
-      "category": "Graduate Jobs",
+      "state": "Madhya Pradesh",
+      "category": "Hospitality & Catering Jobs",
+      "count": 1
+    },
+    {
+      "state": "Madhya Pradesh",
+      "category": "Domestic help & Cleaning Jobs",
+      "count": 1
+    },
+    {
+      "state": "Punjab",
+      "category": "Logistics & Warehouse Jobs",
       "count": 1
     },
     {
       "state": "Odisha",
-      "category": "Graduate Jobs",
-      "count": 1
-    },
-    {
-      "state": "Odisha",
-      "category": "Energy, Oil & Gas Jobs",
-      "count": 1
-    },
-    {
-      "state": "Maharashtra",
-      "category": "Travel Jobs",
-      "count": 1
-    },
-    {
-      "state": "Maharashtra",
-      "category": "Graduate Jobs",
-      "count": 1
-    },
-    {
-      "state": "Maharashtra",
-      "category": "Other/General Jobs",
-      "count": 1
-    },
-    {
-      "state": "Kerala",
-      "category": "Property Jobs",
+      "category": "Trade & Construction Jobs",
       "count": 1
     },
     {
@@ -2126,207 +2161,167 @@
     },
     {
       "state": "Kerala",
+      "category": "Scientific & QA Jobs",
+      "count": 1
+    },
+    {
+      "state": "Punjab",
+      "category": "Property Jobs",
+      "count": 1
+    },
+    {
+      "state": "Punjab",
+      "category": "Manufacturing Jobs",
+      "count": 1
+    },
+    {
+      "state": "Punjab",
+      "category": "Trade & Construction Jobs",
+      "count": 1
+    },
+    {
+      "state": "Punjab",
+      "category": "Scientific & QA Jobs",
+      "count": 1
+    },
+    {
+      "state": "Punjab",
+      "category": "Travel Jobs",
+      "count": 1
+    },
+    {
+      "state": "Rajasthan",
+      "category": "Energy, Oil & Gas Jobs",
+      "count": 1
+    },
+    {
+      "state": "Karnataka",
+      "category": "Graduate Jobs",
+      "count": 1
+    },
+    {
+      "state": "Karnataka",
+      "category": "Hospitality & Catering Jobs",
+      "count": 1
+    },
+    {
+      "state": "Punjab",
+      "category": "Consultancy Jobs",
+      "count": 1
+    },
+    {
+      "state": "Punjab",
+      "category": "Energy, Oil & Gas Jobs",
+      "count": 1
+    },
+    {
+      "state": "Bihar",
+      "category": "Scientific & QA Jobs",
+      "count": 1
+    },
+    {
+      "state": "Delhi",
+      "category": "Part time Jobs",
+      "count": 1
+    },
+    {
+      "state": "Telangana",
+      "category": "Travel Jobs",
+      "count": 1
+    },
+    {
+      "state": "Delhi",
+      "category": "Logistics & Warehouse Jobs",
+      "count": 1
+    },
+    {
+      "state": "Delhi",
+      "category": "Manufacturing Jobs",
+      "count": 1
+    },
+    {
+      "state": "Haryana",
+      "category": "Legal Jobs",
+      "count": 1
+    },
+    {
+      "state": "Gujarat",
+      "category": "Travel Jobs",
+      "count": 1
+    },
+    {
+      "state": "Telangana",
+      "category": "Hospitality & Catering Jobs",
+      "count": 1
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Trade & Construction Jobs",
+      "count": 1
+    },
+    {
+      "state": "Tamil Nadu",
       "category": "Social work Jobs",
       "count": 1
     },
     {
-      "state": "Rajasthan",
-      "category": "Legal Jobs",
-      "count": 1
-    },
-    {
-      "state": "Jharkhand",
-      "category": "Part time Jobs",
-      "count": 1
-    },
-    {
-      "state": "Jharkhand",
-      "category": "Other/General Jobs",
-      "count": 1
-    },
-    {
-      "state": "Karnataka",
-      "category": "Consultancy Jobs",
-      "count": 1
-    },
-    {
-      "state": "Odisha",
-      "category": "Property Jobs",
-      "count": 1
-    },
-    {
-      "state": "Bihar",
-      "category": "Legal Jobs",
-      "count": 1
-    },
-    {
-      "state": "Bihar",
-      "category": "HR & Recruitment Jobs",
-      "count": 1
-    },
-    {
-      "state": "Bihar",
-      "category": "Domestic help & Cleaning Jobs",
-      "count": 1
-    },
-    {
-      "state": "Bihar",
-      "category": "Energy, Oil & Gas Jobs",
-      "count": 1
-    },
-    {
-      "state": "Punjab",
-      "category": "Energy, Oil & Gas Jobs",
-      "count": 1
-    },
-    {
-      "state": "Odisha",
-      "category": "Maintenance Jobs",
-      "count": 1
-    },
-    {
-      "state": "Odisha",
-      "category": "Manufacturing Jobs",
-      "count": 1
-    },
-    {
-      "state": "Jharkhand",
-      "category": "Legal Jobs",
-      "count": 1
-    },
-    {
-      "state": "Assam",
-      "category": "Property Jobs",
-      "count": 1
-    },
-    {
-      "state": "Assam",
-      "category": "Maintenance Jobs",
-      "count": 1
-    },
-    {
-      "state": "Assam",
-      "category": "Logistics & Warehouse Jobs",
-      "count": 1
-    },
-    {
-      "state": "Karnataka",
-      "category": "Energy, Oil & Gas Jobs",
-      "count": 1
-    },
-    {
-      "state": "Bihar",
-      "category": "Other/General Jobs",
-      "count": 1
-    },
-    {
-      "state": "Bihar",
-      "category": "Part time Jobs",
-      "count": 1
-    },
-    {
-      "state": "Bihar",
-      "category": "Maintenance Jobs",
-      "count": 1
-    },
-    {
-      "state": "Odisha",
-      "category": "Legal Jobs",
-      "count": 1
-    },
-    {
-      "state": "Jharkhand",
-      "category": "Admin Jobs",
-      "count": 1
-    },
-    {
-      "state": "Tamil Nadu",
-      "category": "Energy, Oil & Gas Jobs",
-      "count": 1
-    },
-    {
-      "state": "Rajasthan",
-      "category": "Other/General Jobs",
-      "count": 1
-    },
-    {
-      "state": "Telangana",
-      "category": "Retail Jobs",
-      "count": 1
-    },
-    {
-      "state": "Telangana",
-      "category": "Manufacturing Jobs",
-      "count": 1
-    },
-    {
-      "state": "Gujarat",
-      "category": "Legal Jobs",
-      "count": 1
-    },
-    {
-      "state": "Telangana",
-      "category": "Property Jobs",
-      "count": 1
-    },
-    {
-      "state": "Telangana",
-      "category": "Part time Jobs",
-      "count": 1
-    },
-    {
       "state": "Haryana",
       "category": "Domestic help & Cleaning Jobs",
       "count": 1
     },
     {
-      "state": "Tamil Nadu",
-      "category": "Maintenance Jobs",
+      "state": "Uttar Pradesh",
+      "category": "Healthcare & Nursing Jobs",
       "count": 1
     },
     {
-      "state": "Gujarat",
-      "category": "Other/General Jobs",
+      "state": "Haryana",
+      "category": "Energy, Oil & Gas Jobs",
       "count": 1
     },
     {
-      "state": "Jharkhand",
+      "state": "Delhi",
       "category": "Customer Services Jobs",
       "count": 1
     },
     {
-      "state": "Tamil Nadu",
-      "category": "Other/General Jobs",
+      "state": "Bihar",
+      "category": "Maintenance Jobs",
       "count": 1
     },
     {
-      "state": "Delhi",
-      "category": "Trade & Construction Jobs",
-      "count": 1
-    },
-    {
-      "state": "Gujarat",
-      "category": "Manufacturing Jobs",
-      "count": 1
-    },
-    {
-      "state": "Telangana",
-      "category": "Hospitality & Catering Jobs",
-      "count": 1
-    },
-    {
-      "state": "Telangana",
-      "category": "Trade & Construction Jobs",
-      "count": 1
-    },
-    {
-      "state": "Delhi",
-      "category": "Logistics & Warehouse Jobs",
+      "state": "Bihar",
+      "category": "Energy, Oil & Gas Jobs",
       "count": 1
     },
     {
       "state": "Uttar Pradesh",
+      "category": "Trade & Construction Jobs",
+      "count": 1
+    },
+    {
+      "state": "Bihar",
       "category": "Travel Jobs",
+      "count": 1
+    },
+    {
+      "state": "Uttar Pradesh",
+      "category": "Hospitality & Catering Jobs",
+      "count": 1
+    },
+    {
+      "state": "Uttar Pradesh",
+      "category": "Maintenance Jobs",
+      "count": 1
+    },
+    {
+      "state": "Uttar Pradesh",
+      "category": "Manufacturing Jobs",
+      "count": 1
+    },
+    {
+      "state": "Uttar Pradesh",
+      "category": "Property Jobs",
       "count": 1
     },
     {
@@ -2335,63 +2330,38 @@
       "count": 1
     },
     {
-      "state": "Uttar Pradesh",
-      "category": "Manufacturing Jobs",
+      "state": "Assam",
+      "category": "Travel Jobs",
       "count": 1
     },
     {
-      "state": "Uttar Pradesh",
-      "category": "Legal Jobs",
-      "count": 1
-    },
-    {
-      "state": "Uttar Pradesh",
-      "category": "Property Jobs",
-      "count": 1
-    },
-    {
-      "state": "Uttar Pradesh",
-      "category": "Trade & Construction Jobs",
-      "count": 1
-    },
-    {
-      "state": "Uttar Pradesh",
-      "category": "Energy, Oil & Gas Jobs",
-      "count": 1
-    },
-    {
-      "state": "Delhi",
-      "category": "Energy, Oil & Gas Jobs",
-      "count": 1
-    },
-    {
-      "state": "Delhi",
+      "state": "Bihar",
       "category": "Part time Jobs",
       "count": 1
     },
     {
-      "state": "West Bengal",
-      "category": "Legal Jobs",
-      "count": 1
-    },
-    {
-      "state": "West Bengal",
-      "category": "Property Jobs",
+      "state": "Bihar",
+      "category": "Other/General Jobs",
       "count": 1
     },
     {
       "state": "Uttarakhand",
-      "category": "Consultancy Jobs",
+      "category": "Scientific & QA Jobs",
       "count": 1
     },
     {
-      "state": "Assam",
-      "category": "Charity & Voluntary Jobs",
+      "state": "Uttarakhand",
+      "category": "Logistics & Warehouse Jobs",
       "count": 1
     },
     {
-      "state": "West Bengal",
-      "category": "Trade & Construction Jobs",
+      "state": "Uttarakhand",
+      "category": "Customer Services Jobs",
+      "count": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "category": "Legal Jobs",
       "count": 1
     }
   ]
