@@ -624,7 +624,7 @@
   </div>
   <div class="data-badge">
     <div class="pulse"></div>
-    Live · Updated 30 May 2026
+    Live · Updated 31 May 2026
   </div>
 </header>
 
@@ -965,9 +965,9 @@ python app.py            # launch Dash dashboard
 // ─── DATA ─────────────────────────────────────────────────────────────────────
 
 // ── AUTO-INJECTED BY inject_data.py — DO NOT EDIT MANUALLY ──
-// Last refreshed: 30 May 2026, 03:42 IST
+// Last refreshed: 31 May 2026, 03:01 IST
 const LIVE_SUMMARY = {
-  "total_job_openings": 4750,
+  "total_job_openings": 4500,
   "total_migration_routes": 40,
   "total_migrants": 13010000,
   "states_covered": 9
@@ -977,7 +977,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Uttar Pradesh",
     "destination": "Delhi",
     "migrants": 1850000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 7370.52,
     "volume_category": "high"
@@ -986,7 +986,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Bihar",
     "destination": "Delhi",
     "migrants": 1420000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 5657.37,
     "volume_category": "high"
@@ -995,16 +995,16 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Uttar Pradesh",
     "destination": "Maharashtra",
     "migrants": 620000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 0.0,
     "origin_job_openings": 250.0,
-    "migration_pressure": 2470.12,
+    "migration_pressure": 620000.0,
     "volume_category": "medium"
   },
   {
     "origin": "Rajasthan",
     "destination": "Delhi",
     "migrants": 610000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 2430.28,
     "volume_category": "medium"
@@ -1013,25 +1013,25 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Bihar",
     "destination": "Maharashtra",
     "migrants": 540000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 0.0,
     "origin_job_openings": 250.0,
-    "migration_pressure": 2151.39,
+    "migration_pressure": 540000.0,
     "volume_category": "medium"
   },
   {
     "origin": "Madhya Pradesh",
     "destination": "Maharashtra",
     "migrants": 420000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 0.0,
     "origin_job_openings": 250.0,
-    "migration_pressure": 1673.31,
+    "migration_pressure": 420000.0,
     "volume_category": "medium"
   },
   {
     "origin": "Andhra Pradesh",
     "destination": "Telangana",
     "migrants": 380000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 1513.94,
     "volume_category": "medium"
@@ -1040,7 +1040,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Uttar Pradesh",
     "destination": "Karnataka",
     "migrants": 380000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 1513.94,
     "volume_category": "medium"
@@ -1049,7 +1049,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Haryana",
     "destination": "Delhi",
     "migrants": 340000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 1354.58,
     "volume_category": "medium"
@@ -1058,7 +1058,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Uttar Pradesh",
     "destination": "Gujarat",
     "migrants": 310000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 1235.06,
     "volume_category": "medium"
@@ -1067,16 +1067,16 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Odisha",
     "destination": "Maharashtra",
     "migrants": 310000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 0.0,
     "origin_job_openings": 250.0,
-    "migration_pressure": 1235.06,
+    "migration_pressure": 310000.0,
     "volume_category": "medium"
   },
   {
     "origin": "Rajasthan",
     "destination": "Gujarat",
     "migrants": 310000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 1235.06,
     "volume_category": "medium"
@@ -1085,7 +1085,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Andhra Pradesh",
     "destination": "Karnataka",
     "migrants": 290000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 1155.38,
     "volume_category": "low"
@@ -1094,7 +1094,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Uttar Pradesh",
     "destination": "Haryana",
     "migrants": 290000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 1155.38,
     "volume_category": "low"
@@ -1103,7 +1103,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Bihar",
     "destination": "West Bengal",
     "migrants": 290000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 1155.38,
     "volume_category": "low"
@@ -1112,7 +1112,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Bihar",
     "destination": "Gujarat",
     "migrants": 280000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 1115.54,
     "volume_category": "low"
@@ -1121,7 +1121,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Madhya Pradesh",
     "destination": "Gujarat",
     "migrants": 280000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 1115.54,
     "volume_category": "low"
@@ -1130,16 +1130,16 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "West Bengal",
     "destination": "Maharashtra",
     "migrants": 280000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 0.0,
     "origin_job_openings": 250.0,
-    "migration_pressure": 1115.54,
+    "migration_pressure": 280000.0,
     "volume_category": "low"
   },
   {
     "origin": "Tamil Nadu",
     "destination": "Karnataka",
     "migrants": 240000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 956.18,
     "volume_category": "low"
@@ -1148,16 +1148,16 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Rajasthan",
     "destination": "Maharashtra",
     "migrants": 240000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 0.0,
     "origin_job_openings": 250.0,
-    "migration_pressure": 956.18,
+    "migration_pressure": 240000.0,
     "volume_category": "low"
   },
   {
     "origin": "Odisha",
     "destination": "Gujarat",
     "migrants": 220000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 876.49,
     "volume_category": "low"
@@ -1166,7 +1166,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Jharkhand",
     "destination": "Delhi",
     "migrants": 210000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 836.65,
     "volume_category": "low"
@@ -1175,25 +1175,25 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Tamil Nadu",
     "destination": "Maharashtra",
     "migrants": 210000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 0.0,
     "origin_job_openings": 250.0,
-    "migration_pressure": 836.65,
+    "migration_pressure": 210000.0,
     "volume_category": "low"
   },
   {
     "origin": "Gujarat",
     "destination": "Maharashtra",
     "migrants": 210000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 0.0,
     "origin_job_openings": 250.0,
-    "migration_pressure": 836.65,
+    "migration_pressure": 210000.0,
     "volume_category": "low"
   },
   {
     "origin": "West Bengal",
     "destination": "Delhi",
     "migrants": 190000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 756.97,
     "volume_category": "low"
@@ -1202,7 +1202,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Madhya Pradesh",
     "destination": "Delhi",
     "migrants": 190000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 756.97,
     "volume_category": "low"
@@ -1211,7 +1211,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Uttarakhand",
     "destination": "Delhi",
     "migrants": 190000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 756.97,
     "volume_category": "low"
@@ -1220,7 +1220,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Andhra Pradesh",
     "destination": "Tamil Nadu",
     "migrants": 180000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 717.13,
     "volume_category": "low"
@@ -1229,7 +1229,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Bihar",
     "destination": "Uttar Pradesh",
     "migrants": 180000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 717.13,
     "volume_category": "low"
@@ -1238,7 +1238,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Punjab",
     "destination": "Delhi",
     "migrants": 180000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 717.13,
     "volume_category": "low"
@@ -1247,7 +1247,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Odisha",
     "destination": "Karnataka",
     "migrants": 180000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 717.13,
     "volume_category": "low"
@@ -1256,16 +1256,16 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Jharkhand",
     "destination": "Maharashtra",
     "migrants": 180000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 0.0,
     "origin_job_openings": 250.0,
-    "migration_pressure": 717.13,
+    "migration_pressure": 180000.0,
     "volume_category": "low"
   },
   {
     "origin": "West Bengal",
     "destination": "Karnataka",
     "migrants": 160000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 637.45,
     "volume_category": "low"
@@ -1274,7 +1274,7 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Kerala",
     "destination": "Karnataka",
     "migrants": 160000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 637.45,
     "volume_category": "low"
@@ -1283,16 +1283,16 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Karnataka",
     "destination": "Maharashtra",
     "migrants": 140000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 0.0,
     "origin_job_openings": 250.0,
-    "migration_pressure": 557.77,
+    "migration_pressure": 140000.0,
     "volume_category": "low"
   },
   {
     "origin": "Kerala",
     "destination": "Tamil Nadu",
     "migrants": 140000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 557.77,
     "volume_category": "low"
@@ -1301,16 +1301,16 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Telangana",
     "destination": "Maharashtra",
     "migrants": 120000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 0.0,
     "origin_job_openings": 250.0,
-    "migration_pressure": 478.09,
+    "migration_pressure": 120000.0,
     "volume_category": "low"
   },
   {
     "origin": "Assam",
     "destination": "Delhi",
     "migrants": 120000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 250.0,
     "migration_pressure": 478.09,
     "volume_category": "low"
@@ -1319,43 +1319,42 @@ const LIVE_MIGRATION_FLOWS = [
     "origin": "Assam",
     "destination": "Maharashtra",
     "migrants": 90000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 0.0,
     "origin_job_openings": 250.0,
-    "migration_pressure": 358.57,
+    "migration_pressure": 90000.0,
     "volume_category": "low"
   },
   {
     "origin": "Himachal Pradesh",
     "destination": "Delhi",
     "migrants": 80000,
-    "dest_job_openings": 250,
+    "dest_job_openings": 250.0,
     "origin_job_openings": 0.0,
     "migration_pressure": 318.73,
     "volume_category": "low"
   }
 ];
 const LIVE_JOB_HOTSPOTS = {
-  "Telangana": 250,
-  "Jharkhand": 250,
   "Karnataka": 250,
-  "Kerala": 250,
+  "Telangana": 250,
   "Tamil Nadu": 250,
   "Uttar Pradesh": 250,
-  "Bihar": 250,
-  "Assam": 250,
   "Haryana": 250,
-  "Odisha": 250,
+  "Jharkhand": 250,
   "West Bengal": 250,
-  "Punjab": 250,
-  "Madhya Pradesh": 250,
-  "Andhra Pradesh": 250,
-  "Uttarakhand": 250,
-  "Rajasthan": 250,
   "Delhi": 250,
-  "Maharashtra": 250,
+  "Kerala": 250,
+  "Punjab": 250,
+  "Bihar": 250,
+  "Madhya Pradesh": 250,
+  "Assam": 250,
+  "Odisha": 250,
+  "Andhra Pradesh": 250,
+  "Rajasthan": 250,
+  "Uttarakhand": 250,
   "Gujarat": 250
 };
-const LAST_UPDATED = "30 May 2026, 03:42 IST";
+const LAST_UPDATED = "31 May 2026, 03:01 IST";
 // ── END INJECTED DATA ──
 
 const STATE_COORDS_PROJ = {
